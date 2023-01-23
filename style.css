@@ -1,0 +1,39 @@
+div {
+    text-align: center;
+}
+
+button {
+    height: 2.2rem;
+    width: 6.0rem;
+}
+
+body {
+    background-image: url(assets/Chronometer.png);
+}
+
+.img {
+    background: fixed;
+}
+
+.body-h1 {
+    font-size: 8rem;
+    margin-top: 14rem;
+}
+
+.start-btn {
+    font-family: Franklin Gothic Medium;
+    font-size: 25px;
+    background-color: rgb(3, 217, 28);
+}
+
+.stop-btn {
+    font-family: Franklin Gothic Medium;
+    font-size: 25px;
+    background-color: red;
+}
+
+.reset-btn {
+    font-family: Franklin Gothic Medium;
+    font-size: 25px;
+    background-color: yellow;
+}
